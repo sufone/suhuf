@@ -13,7 +13,7 @@ Would like to have an MVP released by end of 2021, *God willing*.
 
 ## To-do
 Very broadly:
-- [ ] Design a logo
+- [ ] Design a logo - I prefer gray and burnt orange for the color scheme
 - [ ] Make wireframes of the front end
 - [ ] Plan and prototype the backend 
 

@@ -1,7 +1,9 @@
 # suhuf.app
-(Under planning, very early thinking. This should probably be private, but no harm in leaving it public – public feedback or contributions always welcome!)
+Under planning
 
-## The Idea
+After this project is released, [Nasheed](https://github.com/sufone/nasheed) is the next focus. Can use all we learn from the audio work on this project.
+
+## Idea
 
 Like the room in Topkapi Palace, where there is someone always reciting Quran so anyone can come for some time and listen to Quran. 
 

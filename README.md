@@ -3,6 +3,12 @@ Under planning
 
 After this project is released, [Nasheed](https://github.com/sufone/nasheed) is the next focus. Can use all we learn from the audio work on this project.
 
+## Quick Update - 13 Feb
+Azuracast seems perfect for this, super simple backend w/$10 droplet on digitalocean. can add more networking when needed.
+frontend should be easy
+
+youtube stream comes later, main goal is to use it to get attention to redirect to suhuf.app
+
 ## Idea
 
 Like the room in Topkapi Palace, where there is someone always reciting Quran so anyone can come for some time and listen to Quran. 

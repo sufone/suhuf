@@ -18,7 +18,7 @@ Plan
 1. Find API: The Guardian and NYT seem best, and don't expect more than 4000 visitors a day
 2. MVP for personal use
   3. Make list of Muslim countries, or countries with significant amount of Muslims, to filter with
-  1. Just get the API working
-  2. Try SvelteKit
+  1. Just get the API working: Filtering for yesterday/today, muslim places (by country name, or tag), by section (to exclude movies/tv and other undesirable things)
+  3. Try SvelteKit
 4. Design like a newspaper, a brown background and headlines
 5. Share
